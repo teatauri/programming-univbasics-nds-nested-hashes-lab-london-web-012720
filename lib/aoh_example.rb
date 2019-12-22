@@ -34,6 +34,7 @@ end
 
 def aoh_lookup(aoh, row, key)
   
+  return aog[row][key]
   
 end
 
